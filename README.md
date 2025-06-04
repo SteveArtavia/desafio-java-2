@@ -4,10 +4,15 @@ Desarrollar una API que conecte con el front-end de una aplicacion web que muest
 
 ## Paquetes principales
 dto
+
 model
+
 controller
+
 service
+
 repository
+
 config
 
 ## Proceso
